@@ -71,4 +71,12 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+# PyCharm
 .idea
+
+# MacOS
+.DS_Store
+
+# papers not published yet
+papers/LNCS-2023_Staged-Vector-Stream-Similarity-Search-Methods.pdf
+papers/WEBIST-2023_On-the-Construction-of-Database-Interfaces-based-on-Large-Language-Models.pdf
